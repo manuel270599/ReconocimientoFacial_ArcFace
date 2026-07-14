@@ -1,0 +1,33 @@
+{
+  "estudiante_01": {
+    "nombre": "José Manuel Montalvo Espinoza",
+    "codigo": "20182722A",
+    "carrera": "Ciencias de la Computación",
+    "ciclo": 9
+  },
+  "estudiante_02": {
+    "nombre": "Jorge Osdmar Reyes Garay",
+    "codigo": "20181376B",
+    "carrera": "Ciencias de la Computación",
+    "ciclo": 7
+  },
+  "estudiante_03": {
+    "nombre": "Enrique Isaac Huaira Lopez",
+    "codigo": "20241656F",
+    "carrera": "Física",
+    "ciclo": 5
+  },
+  "estudiante_04": {
+    "nombre": "Justin David Mateo Poma",
+    "codigo": "",
+    "carrera": "Física",
+    "ciclo": 4
+  },
+  "estudiante_05": {
+    "nombre": "Emmanuelle Ethan Vitor Quispe",
+    "codigo": "20241423A",
+    "carrera": "Ciencias de la Computación",
+    "ciclo": 5
+  }
+}
+
